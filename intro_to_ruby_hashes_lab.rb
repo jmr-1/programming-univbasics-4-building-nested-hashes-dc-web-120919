@@ -23,7 +23,9 @@ def monopoly_with_third_tier
       rent_in_dollars: {
         1 => "", 2=> "", 3=> "", 4=> ""
       },
-      names: {}
+      names: {
+        1 => "", 2=> "", 3=> "", 4=> ""
+      }
     }
     
   }
