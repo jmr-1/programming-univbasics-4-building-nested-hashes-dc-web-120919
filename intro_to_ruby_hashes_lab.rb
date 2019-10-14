@@ -27,7 +27,8 @@ def monopoly_with_third_tier
         four_pieces_owned: 200
       },
       names: {
-        1 => "", 2=> "", 3=> "", 4=> ""
+        1 => "", 
+        2=> "", 3=> "", 4=> ""
       }
     }
     
